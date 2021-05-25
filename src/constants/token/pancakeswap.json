@@ -1091,6 +1091,14 @@
       "logoURI": "https://exchange.pancakeswap.finance/images/coins/0x8076c74c5e3f5852037f31ff0093eeb8c8add8d3.png"
     },
     {
+      "name": "SafeXI",
+      "symbol": "SXI",
+      "address": "0xa327179d47fad68d09e4501a838daaaf74fabb7c",
+      "chainId": 56,
+      "decimals": 9,
+      "logoURI": "https://exchange.pancakeswap.finance/images/coins/0xa327179d47fad68d09e4501a838daaaf74fabb7c.png"
+    },
+    {
       "name": "Tau Bitcoin",
       "symbol": "𝜏BTC",
       "address": "0x2cD1075682b0FCCaADd0Ca629e138E64015Ba11c",
